@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Konstantin 👋
 
-<!--
-**kokojambos250325/kokojambos250325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend / Hybrid Developer with 4+ years of experience.
+I build fast, product-driven web apps and ship ideas to production.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- Frontend: React, TypeScript, Next.js
+- APIs, auth, payments, dashboards
+- AI tools, automation, experiments
+- Product & monetization-focused flows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+- AI-powered products
+- Web3 & onchain UX
+- Autonomous agents & marketplaces
+- Indie hacking & fast iteration
+
+## 🛠 Tech Stack
+- React / Next.js / TypeScript
+- REST APIs, Auth, WebSockets
+- Tailwind / CSS / UI systems
+- Git, CI, basic backend integration
+
+## 📌 Selected Projects
+- **AI Dashboard** — analytics + auth + subscriptions  
+- **Web App Prototype** — MVP shipped in 2 weeks  
+- **Automation Tool** — LLM-powered workflows
+
+## 📫 Contact
+- Telegram: @Nks4513
+- Email: konstantinbarsukov6910@gmail.com
+
