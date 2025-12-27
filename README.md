@@ -68,7 +68,7 @@ AI-powered chat interface that enables natural language management of PropellerA
 - Free tier deployment ($0/month)
 
 ### ⚡ Rapid Prototyping
-- Telegram bot: Client ↔ Freelancer (built in 1 day)
+- Telegram bot: Client ↔ Freelancer 
 - Multiple MVPs shipped fast to test product ideas
 
 ---
