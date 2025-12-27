@@ -43,6 +43,30 @@ Strong in frontend, but comfortable going deep into integrations, workflows, and
 - Deployed service
 - Demonstrated real MCP function calls from UI
 
+
+## PropellerAds AI Chat Interface
+
+AI-powered chat interface that enables natural language management of PropellerAds campaigns through MCP (Model Context Protocol).
+
+**Technologies:**
+- Next.js 15, React 19
+- Vercel AI SDK
+- Model Context Protocol (MCP)
+- Groq AI (Llama 3)
+- Node.js, Python 3.11
+
+**Features:**
+- Natural language campaign management
+- Real-time analytics and reporting
+- AI-powered optimization suggestions
+- SSE bridge for MCP integration
+- Multi-language support (English/Russian)
+
+**Deployment:**
+- Frontend: Vercel (Next.js)
+- Backend: Render (Node.js bridge + Python MCP server)
+- Free tier deployment ($0/month)
+
 ### ⚡ Rapid Prototyping
 - Telegram bot: Client ↔ Freelancer (built in 1 day)
 - Multiple MVPs shipped fast to test product ideas
