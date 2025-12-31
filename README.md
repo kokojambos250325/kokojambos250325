@@ -34,13 +34,6 @@ Strong in frontend, but comfortable working with APIs, cloud deployments, automa
 - Automatic subtitles and publishing  
 - Workflow orchestration across multiple APIs  
 
-🧩 MCP / AI Tooling Demo (PropellerAds)  
-- MCP Server + UI integration  
-- Natural language control of advertising campaigns  
-- SSE bridge for real-time communication  
-- Analytics and reporting via AI  
-- Deployed and working demo  
-
 🛠 Tech Stack
 - Frontend: React, TypeScript, Next.js
 - Backend: Node.js, Python
